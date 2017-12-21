@@ -1,0 +1,4 @@
+#!/bin/bash  
+javac com/kaliheragmi/batarm/*.java
+java com.kaliheragmi.batarm.Preprocessing
+kali com.kaliheragmi.batarm.main_bat
